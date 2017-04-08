@@ -106,7 +106,6 @@ var
     pxValue: Double;
     remValue: Double;
     sRemValue: string;
-    sConversion: string;
 
 
     function EOL: Boolean;
